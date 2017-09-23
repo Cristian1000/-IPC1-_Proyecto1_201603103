@@ -17,6 +17,7 @@ public class Proyecto1 {
     public static void main(String[] args) {
         Inicio ini = new Inicio();
         ini.setVisible(true);
+        
     }
     
 }
